@@ -1,6 +1,6 @@
 # marsrover_technical_challenge
 
-A program to move rovers around a map
+A program to move rovers around a map, run from the terminal
 
 To compile: run make, alternativley gcc main.c sources/*.c -o rover
 
