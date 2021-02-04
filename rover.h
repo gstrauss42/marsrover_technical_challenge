@@ -20,5 +20,5 @@ int     position_capture(char *string);
 rover   *movement(rover *the_rover, char instruction);
 char	*strdup(const char *str);
 char    *itoa(int n);
-
+int     minor_validation(char **av, int ac);
 #endif
