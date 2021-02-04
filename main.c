@@ -5,7 +5,7 @@ int main(int argc, char **argv)
     int x_max = 0, y_max = 0, count = 0, r_count = 0, counter = 0;
     rover   **rovers = (rover **)malloc(sizeof(rover **) *((argc + 1) / 2));
 
-// ensures there are enough arguments
+// ensures that it shouldn't crash
     if(minor_validation(argv, argc) == 0)
         return(0);
     if(argc >= 4)
@@ -94,5 +94,5 @@ int main(int argc, char **argv)
             r_count++;
         }
     }
-    return(0);
+    return(1);
 }
