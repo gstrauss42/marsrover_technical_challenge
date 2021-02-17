@@ -7,6 +7,7 @@
 
 ##### To Run:
 >./rover "5 5" "1 2 N" "LMLMLMLMM" "3 3 E" "MMRMMRMRRM" 
+
 >(the input example given in the question)
 
 ##### Test Cases:
