@@ -3,7 +3,7 @@
 ### A program to move rovers around a map, run from the terminal
 
 ##### Preface:
->This code was written on linux and has not been checked for compatability for other operating systems, as such there may be compilation errors if you compile on windows
+>This code was written on linux and has not been checked for compatability with other operating systems, as such there may be compilation errors if you compile on windows
 
 ##### To Compile:
 >Run make, alternativley gcc main.c sources/*.c -o rover
