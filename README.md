@@ -32,4 +32,4 @@
 
 >I assumed that because rovers move sequentially they could collide and gave the error "a rover has collided with another rover" when they occupied the same space due to movement
 
->I assumed that map co-ordinates could only be positive as it indicates the upper right as the given co-ordinates and the bottom left are 0, 0
+>I assumed that map co-ordinates could only be positive as it indicates the upper right as the given co-ordinates and the bottom left co-ordinates are 0, 0
