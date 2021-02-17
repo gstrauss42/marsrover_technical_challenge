@@ -6,7 +6,9 @@
 >This code was written on linux and has not been checked for compatability with other operating systems, as such there may be compilation errors if you compile on windows
 
 ##### To Compile:
->Run make, alternativley gcc main.c sources/*.c -o rover
+>make
+>alternativley
+>gcc main.c sources/*.c -o rover
 
 ##### To Run:
 >./rover "5 5" "1 2 N" "LMLMLMLMM" "3 3 E" "MMRMMRMRRM" 
