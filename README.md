@@ -2,6 +2,9 @@
 
 ### A program to move rovers around a map, run from the terminal
 
+##### Preface:
+>This code was written on linux and has not been checked for compatability for other operating systems, as such there may be compilation errors if you compile on windows
+
 ##### To Compile:
 >Run make, alternativley gcc main.c sources/*.c -o rover
 
@@ -19,7 +22,7 @@
 
 ### Assumptions made
 
-> Given that the pdf asks for all assumptions to be documents I assumed that I should include some logical assumptions
+> Given that the pdf asks for all assumptions to be documented I assumed that I should include some logical assumptions
 
 > I assumed that a rover is not supposed to be able to exceed the bounds of the map and subsequentally stopped moving upon leaving the map
 
