@@ -7,7 +7,9 @@
 
 ##### To Compile:
 >make
+
 >alternativley
+
 >gcc main.c sources/*.c -o rover
 
 ##### To Run:
