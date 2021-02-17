@@ -22,6 +22,7 @@
 
 ##### Unit Tests:
 >gcc unit_tests.c -o unit_tests
+
 >./unit_tests
 
 ### Assumptions made
